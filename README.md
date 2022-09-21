@@ -9,3 +9,16 @@ https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-z
 and 
 
 https://github.com/mrdbourke/tensorflow-deep-learning
+
+Topics covered:
+
+- Tensorflow fundamentals
+- Regression
+- Classification
+- Computer vision with CNN
+- Transfer learning: feature extraction
+- Transfer learning: Fine tuning
+- Transfer learning: scaling up
+- Introduction to NLP
+- Time series forecasting <-- I AM ON THIS CHAPTER, CURRENTLY, CLOSE TO THE FINISH LINE
+- Passing the TensorFlow Developer Certificate
