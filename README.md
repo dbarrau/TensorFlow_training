@@ -22,3 +22,7 @@ Topics covered:
 - Introduction to NLP
 - Time series forecasting <-- I AM ON THIS CHAPTER, CURRENTLY, CLOSE TO THE FINISH LINE
 - Passing the TensorFlow Developer Certificate
+
+## Projects covered in the course:
+
+* Food Vision: Image classifier of 101 different kinds of food. [View code here](https://github.com/dbarrau/TensorFlow_training/blob/main/07_mileston_project_1_food_vision.ipynb)
