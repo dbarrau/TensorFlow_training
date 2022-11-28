@@ -20,7 +20,7 @@ Topics covered:
 - Transfer learning: Fine tuning
 - Transfer learning: scaling up
 - Introduction to NLP
-- Time series forecasting <-- I AM ON THIS CHAPTER, CURRENTLY, CLOSE TO THE FINISH LINE
+- Time series forecasting
 - Passing the TensorFlow Developer Certificate
 
 ## Projects covered in the course:
